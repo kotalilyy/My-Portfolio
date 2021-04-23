@@ -36,7 +36,7 @@ ul.topnav {
   }
 
   body {
-      background-color: rgb(246, 222, 252);
+      background-image: linear-gradient(to right, rgb(255, 151, 252) , #35e4d9);
       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       display: flex;
       flex-direction: column;
@@ -44,18 +44,33 @@ ul.topnav {
       align-items: center;
   }
 
+  .github {
+    min-height: 5em;
+    display: table-cell;
+    vertical-align: middle
+  }
+
+  .linkedin {
+    min-height: 5em;
+    display: table-cell;
+    vertical-align: middle
+  }
+
   h2 {
-    color:rgb(138, 7, 145)
+    color:rgb(242, 65, 198)
   }
   h1 {
-    color:rgb(138, 7, 145)
+    color: rgb(242, 65, 198)
   }
 
   h3 {
-    color:rgb(138, 7, 145)
+    color:rgb(242, 65, 198)
   }
 
-
+  ul {
+    color:rgb(242, 65, 198)
+  }
+  
   @media screen and (max-width: 600px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive a.icon {
@@ -72,7 +87,7 @@ ul.topnav {
   
     @media (max-width: 800px) {
         h1 {
-        color: rgb(146, 50, 237);
+        color: #35e4d9;
         font-size: 2rem;
         }
       }
