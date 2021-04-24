@@ -44,17 +44,7 @@ ul.topnav {
       align-items: center;
   }
 
-  .github {
-    min-height: 5em;
-    display: table-cell;
-    vertical-align: middle
-  }
-
-  .linkedin {
-    min-height: 5em;
-    display: table-cell;
-    vertical-align: middle
-  }
+  
 
   h2 {
     color:rgb(242, 65, 198)
