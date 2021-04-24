@@ -1,12 +1,12 @@
 # My Portfolio 
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[![GitHub stars](https://img.shields.io/github/stars/kotalilyy/note-taker)](https://github.com/kotalilyy/note-taker/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/kotalilyy/note-taker)](https://github.com/kotalilyy/note-taker/network)
 
 ## Description
 
 This is my Portfolio showcasing my projects and contact information.
+
+[Live Application](https://kotalilyy.github.io/My-Portfolio/)
 
 ## Table of Contents
 
