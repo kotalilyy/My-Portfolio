@@ -11,7 +11,6 @@ This is my Portfolio showcasing my projects and contact information.
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
 
 ## Contributing 
