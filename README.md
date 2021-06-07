@@ -4,7 +4,7 @@
 
 This is my Portfolio showcasing my projects and contact information.
 
-[Live Application](https://kotalilyy.github.io/My-Portfolio/)
+[live link](https://kotalilyy.github.io/My-Portfolio/)
 
 ## Table of Contents
 
@@ -13,12 +13,13 @@ This is my Portfolio showcasing my projects and contact information.
   - [Contributing](#contributing)
   - [Questions](#questions)
 
-## Contributing 
+## Contributions
 
-Created with ❤️ by Dakota Nelson
+Created with ❤️ by [Dakota Nelson](https://github.com/kotalilyy)
 
 ## Questions
 
-Get in touch with me at kotalilyy@gmail.com 
+<a href="mailto:kotalilyy@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-_Happy Coding!_
+
+
