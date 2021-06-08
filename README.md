@@ -4,13 +4,13 @@
 
 This is my Portfolio showcasing my projects and contact information.
 
-[live link](https://kotalilyy.github.io/portfolio/)
+[live link](https://kotalilyy.github.io/portfolio/) 
 
 ## Table of Contents
 
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
-  - [Contributing](#contributing)
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
 ## Contributions
