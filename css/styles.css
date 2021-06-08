@@ -205,6 +205,7 @@ ul.topnav {
   body {
       background-image: linear-gradient(to right, rgb(255, 151, 252) , #35e4d9);
       font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 20px;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -214,18 +215,29 @@ ul.topnav {
   
 
   h2 {
-    color:rgb(242, 65, 198)
+    color:rgb(242, 65, 198);
   }
+
   h1 {
-    color: rgb(242, 65, 198)
+    color: rgb(242, 65, 198);
   }
 
   h3 {
-    color:rgb(242, 65, 198)
+    color:rgb(242, 65, 198);
   }
 
   ul {
-    color:rgb(242, 65, 198)
+    color:rgb(242, 65, 198);
+  }
+
+  img {
+    margin-top: 12px;
+    margin-bottom: 12px;
+  }
+
+  .container {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   
   @media screen and (max-width: 600px) {
@@ -244,7 +256,7 @@ ul.topnav {
   
     @media (max-width: 800px) {
         h1 {
-        color: #35e4d9;
+        color: #af35e4;
         font-size: 2rem;
         }
       }
