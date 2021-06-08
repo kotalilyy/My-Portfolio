@@ -4,7 +4,7 @@
 
 This is my Portfolio showcasing my projects and contact information.
 
-[live link](https://kotalilyy.github.io/My-Portfolio/)
+[live link](https://kotalilyy.github.io/portfolio/)
 
 ## Table of Contents
 
