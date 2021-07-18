@@ -2,16 +2,11 @@
 
 ## Description
 
-This is my Portfolio showcasing my projects and contact information.
+This is a Portfolio I created that showcases my projects.
 
-[live link](https://kotalilyy.github.io/portfolio/) 
+## Live Link
 
-## Table of Contents
-
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Contributions](#contributions)
-  - [Questions](#questions)
+[Live link](https://kotalilyy.github.io/portfolio/) 
 
 ## Contributions
 
