@@ -1,8 +1,4 @@
-# My Portfolio 
-
-## Description
-
-My very first Portfolio.
+# My first Portfolio 
 
 ## Live Link
 
