@@ -2,11 +2,11 @@
 
 ## Description
 
-This is a Portfolio I created that showcases my projects.
+My very first Portfolio.
 
 ## Live Link
 
-[Live link](https://kotalilyy.github.io/portfolio/) 
+[live link](https://kotalilyy.github.io/portfolio/) 
 
 ## Contributions
 
